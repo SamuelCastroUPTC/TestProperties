@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/co/edu/uptc/lib/ProgPropierties_v1.0.0.jar"
+    ]
+}
